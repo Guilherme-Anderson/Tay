@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', monospace;
+  background-color: #0d0d0d;
+  color: #e6e6e6;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.mensagem p {
+  margin: 1.2rem 0;
+  font-size: 1.4rem;
+  animation: fadein 0.5s ease;
+  max-width: 90%;
+}
+
+.botao {
+  background-color: #ff4d6d;
+  color: white;
+  border: none;
+  padding: 1.2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  border-radius: 0;
+}
+
+.botao:hover:not(:disabled) {
+  background-color: #e63956;
+}
+
+.botao:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.heart {
+  color: #ff4d6d;
+  font-size: 2rem;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1) }
+  50% { transform: scale(1.2) }
+}
+
+@keyframes fadein {
+  from { opacity: 0 }
+  to { opacity: 1 }
+}
