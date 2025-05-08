@@ -1,10 +1,11 @@
 const linhas = [
   "Feliz 3 meses, amor.",
-  "Eu queria fazer algo bem diferente dessa vez, de novo isso não é uma competição",
-  "Mas eu sempre gostei de programar e parar pra fazer isso me fez até bem, parei de escrever meu TCC um pouco pra programar algo diferente pra alguém que amo",
-  "Esse mês em partiular eu so posso te agradecer, você é uma mulher incrivel que me pergunto sempre se eu te mereço",
-  "Obrigado pelo seu apoio em absolutamente tudo, mesmo em momentos que você poderia simplesmente desistir de mim vc me apoia",
-  "Até o próximo mês, te amo"
+  "Eu queria fazer algo bem diferente dessa vez. De novo, isso não é uma competição!!!",
+  "Sempre gostei de programar e parar pra fazer isso me fez até bem, parei de apenas programar pro TCC um pouco e foquei em um projetinho pro meu amor ....",
+  "Esse mês em partiular eu so posso te agradecer, você é uma mulher incrivel de verdade. Isso faz eu me questionar se realmente te mereço",
+  "Obrigado pelo seu apoio em absolutamente tudo, realmente você tem feito diferença na minha vida em varias áreas",
+  "Que venham os próximos 4°, 5° ... mêses e que se tornem uma vida",
+  "Com amor e todo carinho, seu namorado: Guilherme Anderson"
 ];
 
 let index = 0;
