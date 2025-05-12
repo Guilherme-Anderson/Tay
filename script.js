@@ -5,7 +5,8 @@ const linhas = [
   "Esse mês em partiular eu so posso te agradecer, você é uma mulher incrivel de verdade. Isso faz eu me questionar se realmente te mereço",
   "Obrigado pelo seu apoio em absolutamente tudo, realmente você tem feito diferença na minha vida em varias áreas",
   "Que venham os próximos 4°, 5° ... mêses e que se tornem uma vida",
-  "Com amor e todo carinho, seu namorado: Guilherme Anderson"
+  "Com amor e todo carinho, seu namorado: Guilherme Anderson",
+  "Teste"
 ];
 
 let index = 0;
