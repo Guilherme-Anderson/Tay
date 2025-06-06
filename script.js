@@ -1,8 +1,8 @@
 const linhas = [
   "Feliz 4 meses, amor.",
   "Eu queria fazer algo bem diferente dessa vez. Era pra isso ter sido parte da carta do tercerio mês, mas acabou virando do quarto",
-  "Sempre gostei de programar e parar pra fazer isso me fez bem, parei de apenas em programar pro TCC um pouco e foquei em um projetinho pro meu amor ....",
-  "Esse mês em partiular eu so posso te agradecer, você é uma mulher incrivel de verdade. Isso faz eu me questionar se realmente te mereço",
+  "Sempre gostei de programar e parar pra fazer isso me fez muito bem,a final parei de apenas programar pensando no TCC um pouco e foquei em um projetinho pro meu amor ....",
+  "Passou mais um mes e vivemos muitas coisas, coisas essas que ficarão para nossa historia e so me anima saber que muitas outras virão",
   "Obrigado pelo seu apoio em absolutamente tudo, realmente você tem feito diferença na minha vida em varias áreas",
   "A cada mês que passa eu so me apaixono mais por você e mais tenho certeza de que você é a mulher da minha vida",
   "Que possamos ter mais incontaveis meses juntos e que a nossa relação venha a crescer e amadurecer cada vez mais",
